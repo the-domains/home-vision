@@ -1,0 +1,14 @@
+layout_spectrum: 0.3141793
+color:
+  saturation: 0.03223585
+  lightness: 0.6299261
+  brandStrength: 0.9767103
+  brandColors:
+    - '#ACA590'
+    - '#C5C6BD'
+    - '#FFFFFF'
+    - '#5A5443'
+    - '#1F1814'
+  rhythmicContrast: 0.1753861
+typography_spectrum: 0.8081006
+name: Home Vision
