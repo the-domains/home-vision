@@ -1,14 +1,29 @@
+name: Home Vision
+favicon: null
 layout_spectrum: 0.3141793
+typography_spectrum: 0.8081006
+title: 'Home Staging & Interior Decoration'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.03223585
-  lightness: 0.6299261
-  brandStrength: 0.9767103
   brandColors:
     - '#ACA590'
     - '#C5C6BD'
     - '#FFFFFF'
     - '#5A5443'
     - '#1F1814'
+  brandStrength: 0.9767103
+  lightness: 0.6299261
+  saturation: 0.03223585
   rhythmicContrast: 0.1753861
-typography_spectrum: 0.8081006
-name: Home Vision
+purpose: []
