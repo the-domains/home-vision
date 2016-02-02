@@ -1,14 +1,15 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
-description: 'Home Staging & Interior Decoration '
-datePublished: '2016-02-02T19:22:26.063Z'
-dateModified: '2016-02-02T19:22:16.381Z'
-title: Home Vision
+description: Home Staging
+datePublished: '2016-02-02T19:25:56.148Z'
+dateModified: '2016-02-02T19:25:50.232Z'
+title: 'Home Vision '
 author: []
 sourcePath: _posts/2016-02-02-home-vision.md
 published: true
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: home-vision/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b605e65b6d1a1193dcb5ffb4645c792e7b24a348.jpg)
