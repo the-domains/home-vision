@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Home Staging & Interior Decoration '
-datePublished: '2016-02-02T18:42:55.051Z'
-dateModified: '2016-02-02T18:42:37.609Z'
-title: 'Home Vision '
+datePublished: '2016-02-02T19:02:39.539Z'
+dateModified: '2016-02-02T18:43:45.036Z'
+title: ' '
 author: []
+sourcePath: _posts/2016-02-02-home-vision.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-02-home-vision.md
-published: true
 url: home-vision/index.html
 _type: Article
 
