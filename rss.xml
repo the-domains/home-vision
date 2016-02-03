@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Home Vision ]]></title>
         <description><![CDATA[Home Vision ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/home-vision/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 18:08:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Feb 2016 18:08:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/home-vision/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9654dd77ea0c3e4865fae424c2a651e44a896b45.jpg" alt="" title="">]]></description>
-            <link>undefined3a7bd150-9812-4b93-9054-490de9803c5f/index.html</link>
+            <link>https://thegrid.ai/home-vision/3a7bd150-9812-4b93-9054-490de9803c5f/index.html</link>
             <guid isPermaLink="false">3a7bd150-9812-4b93-9054-490de9803c5f</guid>
-            <pubDate>Wed, 03 Feb 2016 18:07:56 GMT</pubDate>
+            <pubDate>Wed, 03 Feb 2016 18:08:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
