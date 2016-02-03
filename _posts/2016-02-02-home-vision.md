@@ -1,15 +1,14 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
-description: Home Staging
-datePublished: '2016-02-02T19:25:56.148Z'
-dateModified: '2016-02-02T19:25:50.232Z'
-title: 'Home Vision '
+description: Home Vision
+datePublished: '2016-02-03T17:35:50.070Z'
+dateModified: '2016-02-03T17:35:37.584Z'
+title: Home Staging Services
 author: []
 sourcePath: _posts/2016-02-02-home-vision.md
 published: true
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: home-staging-services/index.html
+_type: Article
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b605e65b6d1a1193dcb5ffb4645c792e7b24a348.jpg)
