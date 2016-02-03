@@ -7,9 +7,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Home Staging
-datePublished: '2016-02-03T18:01:02.613Z'
-dateModified: '2016-02-03T18:01:00.298Z'
-title: 'Home Vision '
+datePublished: '2016-02-03T18:11:45.958Z'
+dateModified: '2016-02-03T18:11:43.640Z'
+title: Home Vision Home Staging
 author: []
 sourcePath: _posts/2016-02-02-home-vision.md
 published: true
