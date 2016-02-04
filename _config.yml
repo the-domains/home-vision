@@ -1,29 +1,41 @@
-name: Home Vision
-favicon: null
-layout_spectrum: 0.92205
-typography_spectrum: 0.8081006
 title: 'Home Vision '
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.1831364
+  brandStrength: 0.125
+  lightness: 0.744898
   brandColors:
     - '#0a0d1a'
     - '#c6bebe'
     - '#0faafb'
     - '#0b54c0'
     - '#ba2833'
-  brandStrength: 0.125
-  lightness: 0.5625
-  saturation: 0.0625
   rhythmicContrast: 0.1753861
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Home Vision
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.8081006
+layout_spectrum: 0.92205
