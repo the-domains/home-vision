@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-08T18:52:51.422Z'
-dateModified: '2016-02-08T18:52:49.504Z'
+datePublished: '2016-02-08T18:54:20.056Z'
+dateModified: '2016-02-08T18:54:13.828Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-02-home-vision.md
